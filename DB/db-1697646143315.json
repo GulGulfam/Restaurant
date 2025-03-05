@@ -1,0 +1,39 @@
+{
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "AL-BAIK",
+      "address": "Model Town",
+      "rating": "4.5",
+      "email": "albaikresto@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "KFC",
+      "address": "Model Town",
+      "rating": "2.5",
+      "email": "KFC@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "McDonalds",
+      "address": "Qila Didar Singh",
+      "rating": "4.5",
+      "email": "MACQDS@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Oresto",
+      "address": "Qila Didar Singh",
+      "rating": "4.5",
+      "email": "Oresto@gmail.com"
+    },
+    {
+      "name": "Gulfam",
+      "id": "6",
+      "address": "dsd",
+      "rating": "sd",
+      "email": "sd"
+    }
+  ]
+}
